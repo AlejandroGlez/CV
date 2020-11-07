@@ -82,3 +82,18 @@ a{
     margin-right: 10px;
     color: var(--primary);
 }
+
+
+@media (max-width: 600px) {
+    main{
+        flex-direction: column;
+    }
+
+    .box-left {
+        width: 100%;
+    }
+      .box-right {
+          width: 100%;
+    }
+
+}
