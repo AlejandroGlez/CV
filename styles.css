@@ -57,6 +57,10 @@ h3{
     margin: 20px 0px;
 }
 
+img{
+    margin: auto 10px;
+}
+
 .info{
     display: flex;
     align-items: center;
