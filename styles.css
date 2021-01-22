@@ -45,7 +45,7 @@ h3{
 .box{
     margin: 0px auto;
     width: 100%;
-    padding: 20px;
+    padding: 5px 20px;
 }
 
 #box{
@@ -54,7 +54,7 @@ h3{
 }
 
 .box .form-group{
-    margin: 20px 0px;
+    margin: 15px 0px;
 }
 
 img{
